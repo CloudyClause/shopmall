@@ -1,0 +1,65 @@
+[
+{
+    "id": 1,
+    "title": "수박",
+    "imgurl": "images/fruit/fruit1.jpg",
+    "content": "제철 맛있는 수박, 1kg",
+    "price": 20000
+},
+
+{
+    "id": 2,
+    "title": "참외",
+    "imgurl": "images/fruit/fruit2.jpg",
+    "content": "시원하고 아삭한 참외, 2kg",
+    "price": 30000
+},
+
+{
+    "id": 3,
+    "title": "사과",
+    "imgurl": "images/fruit/fruit3.jpg",
+    "content": "청송의 아침 이슬을 머금고 자란 꿀사과, 2kg",
+    "price": 25000
+},
+
+{
+    "id": 4,
+    "title": "오렌지",
+    "imgurl": "images/fruit/fruit4.jpg",
+    "content": "지중해 태양을 가득 품은 달콤상큼 오렌지, 1kg",
+    "price": 18000
+},
+
+{
+    "id": 5,
+    "title": "감",
+    "imgurl": "images/fruit/fruit5.jpg",
+    "content": "영암의 따스한 햇살로 빚어낸 꿀단감, 2kg",
+    "price": 28000
+},
+
+{
+    "id": 6,
+    "title": "포도",
+    "imgurl": "images/fruit/fruit6.jpg",
+    "content": "영동의 맑은 바람이 키워낸 보석 포도, 1kg",
+    "price": 32000
+},
+
+{
+    "id": 7,
+    "title": "망고",
+    "imgurl": "images/fruit/fruit7.jpg",
+    "content": "애플망고의 진한 달콤함이 입안 가득, 1kg",
+    "price": 24000
+},
+
+{
+    "id": 8,
+    "title": "바나나",
+    "imgurl": "images/fruit/fruit8.jpg",
+    "content": "부드럽고 달콤하게 스르륵 녹는 바나나, 2kg",
+    "price": 40000
+}
+]
